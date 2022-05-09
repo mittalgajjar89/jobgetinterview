@@ -1,0 +1,6 @@
+framework module Pods_JobGetInterViewTests {
+  umbrella header "Pods-JobGetInterViewTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
